@@ -57,5 +57,8 @@ EX : python3 DDos-404.py -s 120.0.0.1 -p 80 -t 135
 ```
 #
 
+![[Agradecimento](https://github.com/sayonar4-onion)](http://img.shields.io/badge/ate_a_próxima-green.svg)
+
+
 # Obrigado por usar nosso sistema
 
