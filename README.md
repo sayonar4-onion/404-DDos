@@ -30,6 +30,8 @@
 
 # 🇭🇷
 
+![[usar](https://github.com/sayonar4-onion)](http://img.shields.io/badge/como_usar_o_404_DDos?-orange.svg)
+
 #### *📲 CMD'S TERMUX*  
 ```
 apt install python
