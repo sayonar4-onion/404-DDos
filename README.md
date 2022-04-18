@@ -10,12 +10,12 @@
 
 #
 > **TEAM 404**
-> - **Codigo criado pela 404**
-> - **Author Sayonar4-onion**  
+> - **🇭🇷 Codigo criado pela 404**
+> - **🔰 Author Sayonar4-onion**  
 
 > **CODIGO**
-> - **License MTI**
-> - **Leng Python 3.3.6**
+> - **📜 License MTI**
+> - **📝 Leng Python 3.3.6**
 #
 > **ANDROID**
 > - - [x] **KALI NETHUNTER**
@@ -29,17 +29,19 @@
 
 # 🇭🇷
 
-#### *CMD'S TERMUX*  
- - `apt install python`
- - `apt install python2`
- - `apt install python3`
- - `apt install git`
- - `git clone https://github.com/sayonar4-onion/404-DDos`
- - `cd 404-DDos`
- - `chmod +x DDos-404.py`
- - `python3 DDos-404.py`  
+#### *📲 CMD'S TERMUX*  
+```
+apt install python
+apt install python2
+apt install python3
+apt install git
+git clone https://github.com/sayonar4-onion/404-DDos
+cd 404-DDos
+chmod +x DDos-404.py
+python3 DDos-404.py
+```
 
-#### *CMD'S LINUX*
+#### *💻 CMD'S LINUX*
 ```
 sudo apt install python3
 sudo apt install git
