@@ -1,4 +1,4 @@
-![[Python 3.3.6](https://github.com/sayonar4-onion)](http://img.shields.io/badge/python-3.3.7-red.svg)
+![[Python 3.3.6](https://github.com/sayonar4-onion)](http://img.shields.io/badge/python-3.3.6-red.svg)
 ![[Date](https://github.com/sayonar4-onion)](http://img.shields.io/badge/date-18/04/2022-orange.svg)
 ![[Version 1.0](https://github.com/sayonar4-onion)](http://img.shields.io/badge/version-v1.0-blue.svg)
 ![[Chat](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Chat-Igreja_Da_Misoginia-red.svg)
