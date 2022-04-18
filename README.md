@@ -2,7 +2,7 @@
 ![[Date](https://github.com/sayonar4-onion)](http://img.shields.io/badge/date-18/04/2022-orange.svg)
 ![[Version 1.0](https://github.com/sayonar4-onion)](http://img.shields.io/badge/version-v1.0-blue.svg)
 ![[Chat](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Chat-Igreja_Da_Misoginia-red.svg)
-![[Team](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Team-404-pink.svg)
+![[Team](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Team-404-green.svg)
 ![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Codded-Sayonar4-orange.svg)
 ![[Fork](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Fork-hammer-orange.svg)
 ![[license](https://github.com/sayonar4-onion)](http://img.shields.io/badge/License-MIT-blue.svg)
