@@ -6,9 +6,6 @@
 ![[codded-by](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Codded-Sayonar4-orange.svg)
 ![[license](https://github.com/sayonar4-onion)](http://img.shields.io/badge/License-MIT-blue.svg)
 
-.. image:: https://www.eclipse.org/che/contribute.svg
-    :target: https://workspaces.openshift.com/f?url=https://gitpod.io/#https://github.com/sayonar4-onion 
-
 ![[Criado](https://github.com/sayonar4-onion)](http://img.shields.io/badge/Criado_Pela_Team_404_The_Hell-blue.svg)
 
 #
@@ -30,7 +27,7 @@
 #
 # TEAM 404 DDOS
 
-# ðŸ‡­ðŸ‡·
+# 🇭🇷
 
 #### *CMD'S TERMUX*  
  - `apt install python`
